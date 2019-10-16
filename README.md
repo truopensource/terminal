@@ -9,38 +9,38 @@ Windows uses a different interface for interacting with your computer (Command P
 
 ## Commands
 
-```bash
-ls
-```
-
 List the contents of the directory you're currently in.
 
 ```bash
-cd <directory>
+ls
 ```
 
 Change Directories.
 
 ```bash
-touch <filename>
+cd <directory>
 ```
 
 Creates a file.
 
 ```bash
-mkdir <dirname>
+touch <filename>
 ```
 
-Creates a directory
+Creates a directory.
 
 ```bash
-rm <filename>
+mkdir <dirname>
 ```
 
 Removes files.
 
 ```bash
-rm -r <directory>
+rm <filename>
 ```
 
-Removes a directory
+Removes a directory.
+
+```bash
+rm -r <directory>
+```
