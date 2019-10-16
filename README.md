@@ -9,6 +9,18 @@ Windows uses a different interface for interacting with your computer (Command P
 
 ## Commands
 
+Prints to the screen.
+
+```bash
+echo
+```
+
+Displays the present working directory.
+
+```bash
+pwd
+```
+
 List the contents of the directory you're currently in.
 
 ```bash
@@ -16,6 +28,12 @@ ls
 ```
 
 Change Directories.
+
+```bash
+clear
+```
+
+Clears the console's content.
 
 ```bash
 cd <directory>
@@ -31,6 +49,12 @@ Creates a directory.
 
 ```bash
 mkdir <dirname>
+```
+
+Reads a file sequentially.
+
+```bash
+cat <filename>
 ```
 
 Removes files.
