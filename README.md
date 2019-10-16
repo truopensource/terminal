@@ -2,9 +2,10 @@
 
 Welcome to Hacktoberfests first tutorial, an intro to terminal.
 
-### Windows Users
+## Windows Users
 
-Download Git Bash here
+Download Git Bash [here](https://gitforwindows.org/)
+Windows uses a different interface for interacting with your computer (Command Prompt). For simplicity, we will all work in Bash.
 
 ## Commands
 
@@ -24,4 +25,22 @@ Change Directories.
 touch <filename>
 ```
 
-Create a file.
+Creates a file.
+
+```bash
+mkdir <dirname>
+```
+
+Creates a directory
+
+```bash
+rm <filename>
+```
+
+Removes files.
+
+```bash
+rm -r <directory>
+```
+
+Removes a directory
