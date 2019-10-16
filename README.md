@@ -4,7 +4,7 @@ Welcome to Hacktoberfests first tutorial, an intro to terminal.
 
 ## Windows Users
 
-Download Git Bash [here](https://gitforwindows.org/)
+Download Git Bash [here](https://gitforwindows.org/).
 Windows uses a different interface for interacting with your computer (Command Prompt). For simplicity, we will all work in Bash.
 
 ## Commands
