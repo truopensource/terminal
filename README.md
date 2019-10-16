@@ -12,7 +12,7 @@ Windows uses a different interface for interacting with your computer (Command P
 Prints to the screen.
 
 ```bash
-echo
+echo "Some Text"
 ```
 
 Displays the present working directory.
